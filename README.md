@@ -1,4 +1,4 @@
 # BI-StoryTelling
 
-1.
-2.
+1.power bi
+2. Tableau
